@@ -1,0 +1,52 @@
+* {
+  background-color: #218f76;
+  color: #fff;
+}
+h2 {
+  text-align: left;
+  padding-left: 10%;
+}
+.res_cust {
+  text-align: left;
+  padding-left: 10%;
+}
+
+.id {
+  padding-left: 5%;
+  font-size: 20px;
+}
+.orders {
+  text-align: left;
+}
+.orders p {
+  padding-left: 8%;
+}
+
+.bill p {
+  text-align: left;
+}
+.bill h4 {
+  text-align: left;
+  padding-left: 5%;
+}
+.bill h2 {
+  text-align: left;
+}
+hr {
+  border-top: 1px solid #fff !important;
+}
+
+h2 {
+  color: #192a56;
+  background-color: #fff;
+  width: 400px;
+}
+h4 {
+  color: #f3b431;
+}
+h3 {
+  color: #f3b431;
+}
+h5 {
+  color: #f3cc79;
+}

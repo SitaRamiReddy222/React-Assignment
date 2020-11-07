@@ -1,0 +1,10 @@
+.navbar {
+  color: white !important;
+  background-color: #47535e !important;
+}
+.nav-link {
+  color: white !important;
+  background-color: #47535e !important;
+  font-size: 20px;
+  font-weight: bold;
+}
